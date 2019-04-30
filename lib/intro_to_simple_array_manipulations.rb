@@ -43,5 +43,5 @@ def using_delete(instructors, name)
 end
 
 def using_delete_at(robots, bad_robot)
-  robots.delete(bad_robot)
+  robots.delete_at(bad_robot)
 end
