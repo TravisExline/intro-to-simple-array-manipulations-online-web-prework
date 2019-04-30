@@ -9,3 +9,7 @@ end
 def using_pop(songs)
   songs.pop
 end
+
+def pop_with_args(thrones)
+  thrones.pop(2)
+end
