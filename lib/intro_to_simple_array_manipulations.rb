@@ -29,3 +29,6 @@ end
 def using_insert(languages, another_one)
   languages.insert(4, another_one)
 end
+
+def using_uniq(planeteers)
+  planeteers.uniq
