@@ -25,3 +25,7 @@ end
 def using_concat(favorites, more_favorites)
   favorites.concat(more_favorites)
 end
+
+def using_insert(languages, another_one)
+  languages.insert(4, another_one)
+end
