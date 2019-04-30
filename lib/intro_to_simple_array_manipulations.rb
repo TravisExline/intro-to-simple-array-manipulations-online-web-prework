@@ -37,3 +37,7 @@ end
 def using_flatten(private_colleges)
   private_colleges.flatten
 end
+
+def using_delete(instructors, name)
+  instructors.delete(name)
+end
