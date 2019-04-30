@@ -42,6 +42,6 @@ def using_delete(instructors, name)
   instructors.delete(name)
 end
 
-def using_delete_at(robots, 2)
+def using_delete_at(robots, num)
   robots.delete(2)
 end
