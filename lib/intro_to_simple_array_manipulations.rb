@@ -21,3 +21,7 @@ end
 def shift_with_args(ice_cream)
   ice_cream.shift(2)
 end
+
+def using_concat(favorites, more_favorites)
+  favorites.concat(more_favorites)
+end
