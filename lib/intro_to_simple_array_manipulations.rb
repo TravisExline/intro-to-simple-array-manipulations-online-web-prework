@@ -13,3 +13,7 @@ end
 def pop_with_args(thrones)
   thrones.pop(2)
 end
+
+def using_shift(favorite_cities)
+  favorite_cities.shift
+end
