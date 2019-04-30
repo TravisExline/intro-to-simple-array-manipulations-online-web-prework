@@ -33,3 +33,7 @@ end
 def using_uniq(planeteers)
   planeteers.uniq
 end
+
+def using_flatten(private_colleges, college_name)
+  private_colleges.flatten
+end
