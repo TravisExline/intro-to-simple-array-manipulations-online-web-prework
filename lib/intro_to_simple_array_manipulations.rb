@@ -32,3 +32,4 @@ end
 
 def using_uniq(planeteers)
   planeteers.uniq
+end
